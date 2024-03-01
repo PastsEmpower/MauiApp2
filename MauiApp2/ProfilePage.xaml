@@ -4,10 +4,4 @@
              x:Class="MauiApp2.ProfilePage"
              Title="ProfilePage">
 
-    <VerticalStackLayout>
-        <Label 
-        Text="Welcome to .NET MAUI!"
-        VerticalOptions="Center" 
-        HorizontalOptions="Center" />
-    </VerticalStackLayout>
 </ContentPage>
